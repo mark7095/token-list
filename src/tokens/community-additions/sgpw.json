@@ -1,0 +1,16 @@
+{
+  "chainId": 101,
+  "address": "A8dc7JrAEdtbLuFMPXsjayu8kmXDziHz3hxrRNukwxLP",
+  "symbol": "SGPW",
+  "name": "Sugar Paws",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/mark7095/token-list/main/assets/mainnet/A8dc7JrAEdtbLuFMPXsjayu8kmXDziHz3hxrRNukwxLP/logo.png",
+  "tags": ["meme", "pet", "community", "dao"],
+  "extensions": {
+    "website": "https://www.sgpw.store",
+    "twitter": "https://x.com/sgpwDAO",
+    "telegram": "https://t.me/insaengcoin",
+    "discord": "https://discord.gg/VdQG2Xyr",
+    "description": "We have engraved that deep connection onto the blockchain.\nSGPW is not a fleeting project.\nIt is a system that structures the life you share with your beloved pet.\nThat is why SGPW will last forever.\nSugar Paws ($SGPW) is the official meme token of https://x.com/sgpwDAO — a pet photo contest DAO on Solana. Upload your pet, get likes, win daily airdrops. Born to pump, powered by paws. 🐾"
+  }
+}
